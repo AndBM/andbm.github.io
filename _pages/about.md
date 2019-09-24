@@ -15,7 +15,9 @@ I received my B.Sc. with distinction and M.Sc., both in physics, from Aarhus Uni
 My other interests include programming and playing music, particularly the piano.
 
 ## Publications
-The work I did on my Master's thesis resulted in a paper which is currently under review for publication. Current technology allows us to isolate a small number of atoms in an effectively one-dimensional trap, which is an excellent playground to explore quantum mechanics. But since the atoms are electrically neutral, they can be hard to control. Ions, on the other hand, are much easier to control. In our paper we demonstrate that in a mix of atoms and ions, tuning the ion states allows for a degree of control over the atom-atom interactions. A preprint can be found here:
+Current technology allows us to isolate a small number of atoms in an effectively one-dimensional trap, which is an excellent playground to explore quantum mechanics. But since the atoms are electrically neutral, they can be hard to control. Ions, on the other hand, are much easier to control. In our paper we demonstrate that in a mix of atoms and ions, tuning the ion states allows for a degree of control over the atom-atom interactions. 
+
+A preprint can be found here:
 
 Andreas Bock Michelsen, Manuel Valiente, Nikolaj Zinner and Antonio Negretti, _Ion-induced interactions in a Tomonaga-Luttinger liquid_, [arXiv:1907.070900](https://arxiv.org/abs/1907.07090) [cond-mat.quant-gas]
 
