@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist going on a deep dive into quantum mechanics. My current research is on topological phases of matter, particularly the theory behind current attempts at finding anyons in the form of parafermionic zero modes. I am doing this in the context of my bi-national PhD degree under [Thomas Schmidt][1] at University of Luxembourg and [Bernd Braunecker][2] at University of St. Andrews, with my current location being Luxembourg.
+I am a theoretical physicist going on a deep dive into quantum mechanics, particularly in one-dimensional systems. My current research is on topological phases of matter, particularly the theory behind current attempts at finding anyons in the form of parafermionic zero modes. I am doing this in the context of my bi-national PhD degree under [Thomas Schmidt][1] at University of Luxembourg and [Bernd Braunecker][2] at University of St. Andrews, with my current location being Luxembourg.
 
 I received my B.Sc. with distinction and M.Sc., both in physics, from Aarhus University in Denmark.
 
