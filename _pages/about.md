@@ -19,7 +19,7 @@ Current technology allows us to isolate a small number of atoms in an effectivel
 
 A preprint can be found here:
 
-Andreas Bock Michelsen, Manuel Valiente, Nikolaj Zinner and Antonio Negretti, _Ion-induced interactions in a Tomonaga-Luttinger liquid_, [arXiv:1907.070900](https://arxiv.org/abs/1907.07090) [cond-mat.quant-gas]
+>Andreas Bock Michelsen, Manuel Valiente, Nikolaj Zinner and Antonio Negretti, _Ion-induced interactions in a Tomonaga-Luttinger liquid_, [arXiv:1907.070900](https://arxiv.org/abs/1907.07090) [cond-mat.quant-gas]
 
 ## Contact
 You can reach me at andreas.michelsen [at] uni.lu.
