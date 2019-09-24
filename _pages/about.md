@@ -16,7 +16,7 @@ My other interests include programming and playing music, particularly the piano
 
 ## Publications
 
-#### Ion-induced interactions in a Tomonaga-Luttinger liquid
+### Ion-induced interactions in a Tomonaga-Luttinger liquid
 Current technology allows us to isolate a small number of atoms in an effectively one-dimensional trap, which is an excellent playground to explore quantum mechanics. But since the atoms are electrically neutral, they can be hard to control. Ions, on the other hand, are much easier to control. In our paper we demonstrate that in a mix of atoms and ions, tuning the ion states allows for a degree of control over the atom-atom interactions. 
 
 A preprint can be found here:
