@@ -3,7 +3,7 @@ title: "Using git to manage your research / thesis"
 collection: projects
 type: "Coding project"
 permalink: /projects/git-for-research-project-management
-date: 2018-10-15
+date: 2019-11-01
 ---
 
 An important part of managing research projects is having the right tools for the job. Even for projects without code, git can be a powerful tool for managing notes and collaborating on papers, especially in comparison to a setup consisting of emails + shared Dropbox folders. Consider the following workflow:
