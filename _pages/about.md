@@ -19,8 +19,6 @@ My other interests include programming and playing music, particularly the piano
 ### Ion-induced interactions in a Tomonaga-Luttinger liquid
 Current technology allows us to isolate a small number of atoms in an effectively one-dimensional trap, which is an excellent playground to explore quantum mechanics. But since the atoms are electrically neutral, they can be hard to control. Ions, on the other hand, are much easier to control. In our paper we demonstrate that in a mix of atoms and ions, tuning the ion states allows for a degree of control over the atom-atom interactions. 
 
-A preprint can be found here:
-
 - Andreas Bock Michelsen, Manuel Valiente, Nikolaj Zinner and Antonio Negretti, _Ion-induced interactions in a Tomonaga-Luttinger liquid_, [PRB 100, 205427](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205427) / [arXiv](https://arxiv.org/abs/1907.07090) 
 
 ## Contact
