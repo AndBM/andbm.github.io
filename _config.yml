@@ -9,7 +9,7 @@
 locale                   : "en-US"
 title                    : "Andreas Bock Michelsen"
 title_separator          : "-"
-name                     : #&name "Andreas Bock Michelsen"
+name                     : &name "Andreas Bock Michelsen"
 description              : &description "personal website"
 url                      : https://andbm.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Andreas Bock Michelsen"
+  name             : #"Andreas Bock Michelsen"
   avatar           : "portrait_square.jpg"
   bio              : "PhD student researching quantum technology"
   location         : "Luxembourg"
