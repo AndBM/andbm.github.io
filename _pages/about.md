@@ -24,5 +24,5 @@ Current technology allows us to isolate a small number of atoms in an effectivel
 ## Contact
 You can reach me at andreas.michelsen [at] uni.lu.
 
-[1]:https://www.tlschmidt.com/index.php
+[1]:https://tmqs.uni.lu
 [2]:https://www.st-andrews.ac.uk/~bhb/
