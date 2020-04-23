@@ -16,7 +16,7 @@ My other interests include programming and playing music, particularly the piano
 
 ## Publications
 
-### Ion-induced interactions in a Tomonaga-Luttinger liquid
+### Current correlations of Cooper-pair tunneling into a quantum Hall system
 The concept of a topologically protected quantum state, which can retain its quantum features under conditions where other systems would collapse, is immensely interesting for both theory and technology. A promising proposed host for such states is the hybrid system of a superconductor and a quantum Hall material. Previous research has shown that if these two are interface through a point contact, the Pauli principle suppresses the electron current between the two through the so-called Pauli blockade. In this paper we derive the current noise over the contact for 1D quantum Hall liquids with several filling fractions, as well as with and without electron-electron interactions.
 
 - Andreas B. Michelsen, Thomas L. Schmidt, Edvin G. Idrisov, _Current correlations of Cooper-pair tunneling into a quantum Hall system_, [arXiv](https://arxiv.org/abs/2004.10279)
