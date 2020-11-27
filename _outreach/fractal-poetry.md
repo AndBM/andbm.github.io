@@ -2,7 +2,7 @@
 title: "Fractal poetry: How to use a machine for something it can't do"
 collection: outreach
 type: "Outreach"
-permalink: /projects/fractal-poetry
+permalink: /outreach/fractal-poetry
 #venue: "University of Luxembourg"
 date: 2019-10-25
 #location: "Luxembourg, Luxembourg"
