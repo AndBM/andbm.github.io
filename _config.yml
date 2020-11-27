@@ -106,7 +106,7 @@ author:
   orcid            : #"https://orcid.org/0000-0002-8798-1256"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # https://stackexchange.com/users/15416656/codename-47
+  stackoverflow    : https://physics.stackexchange.com/users/223949/codename-47
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
@@ -255,7 +255,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: 	Europe/Luxembourg # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: 		Europe/London # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
