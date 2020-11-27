@@ -87,7 +87,7 @@ author:
   employer         : #"University of Luxembourg"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UgXqrVYAAAAJ&hl=en"
-  email            :
+  email            : "andreas@abmichelsen.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -182,6 +182,9 @@ collections:
     output: true
     permalink: /:collection/:path/
   projects:
+    output: true
+    permalink: /:collection/:path/
+  outreach:
     output: true
     permalink: /:collection/:path/
   talks:
