@@ -19,18 +19,17 @@ However, in 2000 the Danish crown prince Frederik and the Sirius patrol, which e
 
 So where is Knud Rasmussen land? It would appear that it used to stretch from Melville Bay in the west to Danmarks Fjord in the east, but was reduced by half in 2000 to end at Wulff Land in the east.
 
-Figure 1: A reference on Knud Rasmussen land from 1984.
-
 ![Figure 1: A reference on Knud Rasmussen land from 1984.](../images/knud-rasmussen/original-reference.PNG)
 
-Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord.
+Figure 1: A reference on Knud Rasmussen land from 1984.
 
 ![Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord.](../images/knud-rasmussen/map-1988-crop.jpg)
 
-Figure 3: Current map of Greenland, indicating the border between Knud Rasmussen Land and Kronprins Frederik Land to be near Wulff land.
+Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord.
 
 ![Figure 3: Current map of Greenland, indicating the border between Knud Rasmussen Land and Kronprins Frederik Land to be near Wulff land.](../images/knud-rasmussen/map-2020.PNG)
 
+Figure 3: Current map of Greenland, indicating the border between Knud Rasmussen Land and Kronprins Frederik Land to be near Wulff land.
 
 ### References
 
