@@ -21,21 +21,26 @@ So where is Knud Rasmussen land? It would appear that it used to stretch from Me
 
 Figure 1: A reference on Knud Rasmussen land from 1984.
 
-![Figure 1: A reference on Knud Rasmussen land from 1984.](https://github.com/AndBM/andbm.github.io/blob/master/images/original-reference.PNG)
+![Figure 1: A reference on Knud Rasmussen land from 1984.](https://github.com/AndBM/andbm.github.io/blob/master/images/knud-rasmussen/original-reference.PNG)
 
 Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord.
 
-![Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord.](https://github.com/AndBM/andbm.github.io/blob/master/images/map-1988-crop.jpg)
+![Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord.](https://github.com/AndBM/andbm.github.io/blob/master/images/knud-rasmussen/map-1988-crop.jpg)
 
 Figure 3: Current map of Greenland, indicating the border between Knud Rasmussen Land and Kronprins Frederik Land to be near Wulff land.
 
-![Figure 3: Current map of Greenland, indicating the border between Knud Rasmussen Land and Kronprins Frederik Land to be near Wulff land.](https://github.com/AndBM/andbm.github.io/blob/master/images/map-2020.PNG)
+![Figure 3: Current map of Greenland, indicating the border between Knud Rasmussen Land and Kronprins Frederik Land to be near Wulff land.](https://github.com/AndBM/andbm.github.io/blob/master/images/knud-rasmussen/map-2020.PNG)
 
 
-###References
+### References
+
 Gilberg, R. P. (1984). Profile: Knud Rasmussen, 1879-1933. Polar Record, 22(137), 169-171.
+
 Gyldendal. (1988). Grønland (Kalallit Nunaat). In Gyldendals Atlas (p. 46). Hong Kong: Gyldendal.
-Kortforsyningen. (2020). Grønland 1:10.000.000. Retrieved January 31, 2020, from download.kortforsyningen.dk/content/gr%C3%B8nland-110000000
-Rasmussen, R. O. (2015, January 23). Kronprins Frederik Land. Retrieved January 31, 2020, from Den Store Danske: https://denstoredanske.lex.dk/Kronprins_Frederik_Land
-Ritzau. (2000, June 14). Grønlandsk område bærer kronprinsens navn. Retrieved January 31, 2020, from Jyllands-posten.dk: jyllands-posten.dk/indland/ECE3288886/Gr%C3%B8nlandsk-omr%C3%A5de-b%C3%A6rer-kronprinsens-navn/
+
+Kortforsyningen. (2020). Grønland 1:10.000.000. Retrieved January 31, 2020, (link)[download.kortforsyningen.dk/content/gr%C3%B8nland-110000000]
+
+Rasmussen, R. O. (2015, January 23). Kronprins Frederik Land. Retrieved January 31, 2020, from Den Store Danske: (link)[denstoredanske.lex.dk/Kronprins_Frederik_Land]
+
+Ritzau. (2000, June 14). Grønlandsk område bærer kronprinsens navn. Retrieved January 31, 2020, from Jyllands-posten.dk: (link)[jyllands-posten.dk/indland/ECE3288886/Gr%C3%B8nlandsk-omr%C3%A5de-b%C3%A6rer-kronprinsens-navn/]
 
