@@ -2,7 +2,7 @@
 title: "Where is Knud Rasmussen land?"
 collection: projects
 type: "Misc. Project"
-permalink: /projects/knud-rasmussen-land
+permalink: /projects/knud-rasmussen-land/
 date: 2020-01-31
 ---
 
@@ -21,7 +21,7 @@ Figure 1: A reference on Knud Rasmussen land from 1984 (Gilberg, 1984).
 
 ![Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord.](../images/knud-rasmussen/map-1988-crop.jpg)
 
-Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay and Danmark Fjord (Gyldendal, 1988).
+Figure 2: Map of Greenland from 1988, showing Knud Rasmussen land, Melville bay (Melville bugt) and Danmark Fjord (Gyldendal, 1988).
 
 ![Figure 3: Current map of Greenland, indicating the border between Knud Rasmussen Land and Kronprins Frederik Land to be near Wulff land.](../images/knud-rasmussen/map-2020.PNG)
 
