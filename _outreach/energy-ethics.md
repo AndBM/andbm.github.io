@@ -2,7 +2,7 @@
 title: "Understanding energy"
 collection: outreach
 type: "Outreach"
-permalink: /outreach/energy-ethics
+permalink: /outreach/energy-ethics/
 venue: "University of St Andrews, Centre for Energy Ethics"
 date: 2021-02-04
 #location: "Aarhus, Denmark"
