@@ -2,7 +2,7 @@
 title: "Using git to manage your research / thesis"
 collection: projects
 type: "Coding project"
-permalink: /projects/git-for-research-project-management
+permalink: /projects/git-for-research-project-management/
 date: 2019-11-01
 ---
 
