@@ -2,7 +2,7 @@
 title: "How to build a cubesat"
 collection: outreach
 type: "Outreach"
-permalink: /outreach/delphini-1
+permalink: /outreach/delphini-1/
 #venue: "Aarhus University, Department of Physics"
 date: 2018-12-19
 #location: "Aarhus, Denmark"
