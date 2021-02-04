@@ -2,7 +2,7 @@
 title: "Map of Luxembourg post boxes"
 collection: projects
 type: "Coding project"
-permalink: /projects/luxembourg-post-boxes
+permalink: /projects/luxembourg-post-boxes/
 #venue: "Aarhus University, Department of Math"
 date: 2018-10-15
 #location: "Aarhus, Denmark"
