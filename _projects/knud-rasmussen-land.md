@@ -6,7 +6,7 @@ permalink: /projects/knud-rasmussen-land/
 date: 2020-01-31
 ---
 
-[Knud Rasmussen](en.wikipedia.org/wiki/Knud_Rasmussen) was a great Arctic explorer, and in honor of his exploits, a large swathe of land on the northern coast of Greenland was named after him. Looking at a modern map of Greenland, I was surprised to see much of what I knew as _Knud Rasmussen Land_ had become _Kronprins Frederik Land_. Not being able to find any clear explanations for what used to count as _Knud Rasmussen Land_, and what counted now, I decided to dig into the story and summarize it here for any curious souls.
+[Knud Rasmussen](https://en.wikipedia.org/wiki/Knud_Rasmussen) was a great Arctic explorer, and in honor of his exploits, a large swathe of land on the northern coast of Greenland was named after him. Looking at a modern map of Greenland, I was surprised to see much of what I knew as _Knud Rasmussen Land_ had become _Kronprins Frederik Land_. Not being able to find any clear explanations for what used to count as _Knud Rasmussen Land_, and what counted now, I decided to dig into the story and summarize it here for any curious souls.
 
 A good reference to start with is a profile of Knud submitted to the journal Polar Record (Gilberg, 1984), which states that Knud Rasmussen land ranges “from _Melville Bay_ in the west to _Danmarks Fjord_ in the east“, see full quote in Fig. 1. This source might not be entirely accurate, however, as it mentions Knud receiving an honorary doctorate from the University of Aberdeen, which is likely a case of the author mistaking Aberdeen for St. Andrews. However, if we look at a map (Gyldendal, 1988) from the same decade, this definition is supported, see Fig. 2.
 
