@@ -33,9 +33,9 @@ Gilberg, R. P. (1984). _Profile: Knud Rasmussen, 1879-1933_. Polar Record, 22(13
 
 Gyldendal. (1988). _Grønland (Kalallit Nunaat)_. In Gyldendals Atlas, 6th Ed., 2nd print (p. 46). 
 
-Kortforsyningen. (2020). _Grønland 1:10.000.000_. Retrieved January 31, 2020, [link](download.kortforsyningen.dk/content/gr%C3%B8nland-110000000)
+Kortforsyningen. (2020). _Grønland 1:10.000.000_. Retrieved January 31, 2020, [link](https://download.kortforsyningen.dk/content/gr%C3%B8nland-110000000)
 
-Rasmussen, R. O. (2015, January 23). _Kronprins Frederik Land_. Retrieved January 31, 2020, from Den Store Danske: [link](denstoredanske.lex.dk/Kronprins_Frederik_Land)
+Rasmussen, R. O. (2015, January 23). _Kronprins Frederik Land_. Retrieved January 31, 2020, from Den Store Danske: [link](https://denstoredanske.lex.dk/Kronprins_Frederik_Land)
 
-Ritzau. (2000, June 14). _Grønlandsk område bærer kronprinsens navn_. Retrieved January 31, 2020, from Jyllands-posten.dk: [link](jyllands-posten.dk/indland/ECE3288886/Gr%C3%B8nlandsk-omr%C3%A5de-b%C3%A6rer-kronprinsens-navn/)
+Ritzau. (2000, June 14). _Grønlandsk område bærer kronprinsens navn_. Retrieved January 31, 2020, from Jyllands-posten.dk: [link](https://jyllands-posten.dk/indland/ECE3288886/Gr%C3%B8nlandsk-omr%C3%A5de-b%C3%A6rer-kronprinsens-navn/)
 
