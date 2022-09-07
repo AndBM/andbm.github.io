@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist going on a deep dive into quantum mechanics with a focus on one-dimensional systems. My current research is on topological phases of matter, particularly the theory behind current attempts at finding anyons in the form of parafermionic zero modes. I am doing this in the context of my bi-national PhD degree under [Thomas Schmidt][1] at University of Luxembourg and [Bernd Braunecker][2] at University of St. Andrews, with my current location being St. Andrews.
+I am a theoretical physicist going on a deep dive into quantum mechanics with a focus on one-dimensional systems. My current research is on topological phases of matter, particularly the theory behind current attempts at finding anyons in the form of parafermionic zero modes. I am doing this in the context of my bi-national PhD degree under [Thomas Schmidt][1] at University of Luxembourg and [Bernd Braunecker][2] at University of St. Andrews, with my current location being Copenhagen.
 
 I am also working as a researcher with the St Andrews [Centre for Energy Ethics][4], which among other things has resulted in an ongoing series of [blog posts][5] about the physical aspects of energy production.
 
@@ -47,4 +47,3 @@ You can reach me at [andreas@abmichelsen.com][3].
 [3]:mailto:andreas@abmichelsen.com
 [4]:https://energyethics.st-andrews.ac.uk/
 [5]:https://abmichelsen.com/outreach/energy-ethics/
-

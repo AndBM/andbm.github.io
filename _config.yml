@@ -83,7 +83,7 @@ author:
   name             : #"Andreas Bock Michelsen"
   avatar           : "portrait_square.jpg"
   bio              : "PhD student researching quantum technology"
-  location         : "St Andrews"
+  location         : "Copenhagen"
   employer         : #"University of St Andrews"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UgXqrVYAAAAJ&hl=en"
@@ -106,7 +106,7 @@ author:
   orcid            : #"https://orcid.org/0000-0002-8798-1256"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    :
   steam            :
   tumblr           :
   twitter          : #"replacethistwitterhandle"
