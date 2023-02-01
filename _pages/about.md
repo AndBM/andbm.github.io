@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist specialized in low-dimensional quantum mechanics currently researching quantum algorithms and applications of quantum technology in the context of a postdoctoral position at Aarhus University as well as a position as quantum engineer with [Kvantify][kvantify]{:target="_blank"} in Copenhagen.  
+I am a theoretical physicist specialized in low-dimensional quantum mechanics currently researching quantum algorithms and applications of quantum technology in the context of a industrial postdoc position at the IT University of Copenhagen as well as a position as quantum engineer with [Kvantify][kvantify]{:target="_blank"} in Copenhagen.  
 
 I have a PhD in physics from the universities of St Andrews and Luxembourg, where I developed an analytical theory of the hybridization between a superconductor and a quantum Hall edge state which emphasized the critical role of the Meissner effect in the successful experimental observation of the phenomenon. Such systems are predicted to host anyonic quasiparticles, with a potential application in topological quantum computing. This work was done under supervision of [Thomas Schmidt][thomas]{:target="_blank"} and [Bernd Braunecker][bernd]{:target="_blank"}.
 
