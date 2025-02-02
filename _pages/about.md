@@ -8,13 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a theoretical physicist specialized in low-dimensional quantum mechanics currently researching quantum algorithms and applications of quantum technology in the context of a industrial postdoc position at the IT University of Copenhagen as well as a position as quantum engineer with [Kvantify][kvantify]{:target="_blank"} in Copenhagen.  
+I am a theoretical quantum physicist currently working with the [Novo Nordisk Foundation Quantum Computing Programme (NQCP)][nqcp]{:target="_blank"}, an ambitious quantum technology development project at the Niels Bohr Institue, to develop its role at the heart of the thriving Danish quantum technology eco-system.
 
 I have a PhD in physics from the universities of St Andrews and Luxembourg, where I developed an analytical theory of the hybridization between a superconductor and a quantum Hall edge state which emphasized the critical role of the Meissner effect in the successful experimental observation of the phenomenon. Such systems are predicted to host anyonic quasiparticles, with a potential application in topological quantum computing. This work was done under supervision of [Thomas Schmidt][thomas]{:target="_blank"} and [Bernd Braunecker][bernd]{:target="_blank"}.
 
 I received my B.Sc. with distinction and M.Sc., both in physics, from Aarhus University in Denmark.
 
-I am affiliated with the St Andrews [Centre for Energy Ethics][energy]{:target="_blank"}, which among other things has resulted in an ongoing series of [blog posts][blogposts]{:target="_blank"} about the physical aspects of energy production. My other interests include programming and playing music, particularly the piano.
+I have been affiliated with the St Andrews [Centre for Energy Ethics][energy]{:target="_blank"}, which among other things has resulted in [blog posts][blogposts]{:target="_blank"} about the physical aspects of energy production. My other interests include programming and playing music, particularly the piano.
 
 ## Scientific publications
 
@@ -48,3 +48,4 @@ You can reach me at [andreas@abmichelsen.com][mail].
 [energy]:https://energyethics.st-andrews.ac.uk/
 [blogposts]:https://abmichelsen.com/outreach/energy-ethics/
 [kvantify]:https://www.kvantify.dk/
+[nqcp]:https://nqcp.ku.dk/
