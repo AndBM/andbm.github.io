@@ -82,9 +82,9 @@ analytics:
 author:
   name             : #"Andreas Bock Michelsen"
   avatar           : "portrait_square.jpg"
-  bio              : "Programme Manager | Algorithms and Applications"
-  location         : "Copenhagen"
-  employer         : "Novo Nordisk Foundation Quantum Computing Programme, University of Copenhagen"
+  bio              : "Programme Manager, Algorithms and Applications"
+  location         : #"Copenhagen"
+  employer         : "NQCP / UCPH"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=UgXqrVYAAAAJ&hl=en"
   email            : "andreas@abmichelsen.com"
