@@ -18,6 +18,17 @@ I have been affiliated with the St Andrews [Centre for Energy Ethics][energy]{:t
 
 ## Scientific publications
 
+
+### Functional matrix product state simulation of continuous variable quantum circuits
+Continuous variable quantum circuits are exciting in part because for such circuits there exists certain encodings with inherent robustness against errors. Continuous variable states are, however, harder to numerically simulate than their discrete variable counterparts due to the fact that classical computers are inherently discrete, and thus some discretisation of the continuum is required. In this work we combine a problem-agnostic discretisation of position space with a functional matrix product state formalism to simulate continuous variable circuits in a way that draws on the benefits of tensor networks. We demonstrate that for broad, shallow circuits of non-Gaussian states, our method is capable of sub-exponential scaling of simulation times, something other state-of-the-art methods like Strawberry Fields fails to achieve.
+
+My colleague Frederik K. Marqversen has further managed to use this method to simulate GKP qubit circuits with finite squeezing at a previously unfeasible scale, establishing fundamental bounds on the amount of squeezing required to achieve quantum advantage for such circuits.
+
+- Andreas B. Michelsen, Frederik K. Marqversen, Michael Kastoryano, _Functional matrix product state simulation of continuous variable quantum circuits_, [arXiv](https://arxiv.org/abs/2504.05860){:target="_blank"}
+- Frederik K. Marqversen, Andreas B. Michelsen, Janus H. Wesenberg, Nikolaj T. Zinner, _Impact of finite squeezing on near-term quantum computations using GKP qubits_, [arXiv](https://arxiv.org/abs/2507.15955){:target="_blank"}
+
+
+
 ### Supercurrent-enabled Andreev reflection in a chiral quantum Hall edge state
 Superconductivity and the quantum Hall effect are both examples of a macroscopic number of electrons exhibiting highly correlated behavior with very distinct transport signatures. When interfaced with a superconductor, the quantum Hall edge experiences induced superconducting pairing due to Andreev reflection, a process where electrons reflect off the superconductor as holes. It is expected that this type of system will be a good platform for hosting exotic quasiparticles with
 significant impact on quantum computing.
@@ -29,15 +40,18 @@ The full Hamiltonian of the system gives rise to an effective p-wave pairing Ham
 
 - Andreas B. Michelsen, Patrik Recher, Bernd Braunecker, Thomas L. Schmidt, _Supercurrent-enabled Andreev reflection in a chiral quantum Hall edge state_, [Phys. Rev. Research 5, 013066](https://link.aps.org/doi/10.1103/PhysRevResearch.5.013066){:target="_blank"} / [arXiv](https://arxiv.org/abs/2203.13384){:target="_blank"}
 
+
 ### Current correlations of Cooper-pair tunneling into a quantum Hall system
 The concept of a topologically protected quantum state, which can retain its quantum features under conditions where other systems would collapse, is immensely interesting for both theory and technology. A promising proposed host for such states is the hybrid system of a superconductor and a quantum Hall material. Previous research has shown that if these two are interface through a point contact, the Pauli principle suppresses the electron current between the two through the so-called Pauli blockade. In this paper we derive the current noise over the contact for 1D quantum Hall liquids with several filling fractions, as well as with and without electron-electron interactions.
 
 - Andreas B. Michelsen, Thomas L. Schmidt, Edvin G. Idrisov, _Current correlations of Cooper-pair tunneling into a quantum Hall system_, [PRB 102, 125402](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.102.125402){:target="_blank"} / [arXiv](https://arxiv.org/abs/2004.10279){:target="_blank"}
 
+
 ### Ion-induced interactions in a Tomonaga-Luttinger liquid
 Current technology allows us to isolate a small number of atoms in an effectively one-dimensional trap, which is an excellent playground to explore quantum mechanics. But since the atoms are electrically neutral, they can be hard to control. Ions, on the other hand, are much easier to control. In our paper we demonstrate that in a mix of atoms and ions, tuning the ion states allows for a degree of control over the atom-atom interactions.
 
 - Andreas B. Michelsen, Manuel Valiente, Nikolaj Zinner and Antonio Negretti, _Ion-induced interactions in a Tomonaga-Luttinger liquid_, [PRB 100, 205427](https://journals.aps.org/prb/abstract/10.1103/PhysRevB.100.205427){:target="_blank"} / [arXiv](https://arxiv.org/abs/1907.07090){:target="_blank"}
+
 
 ## Contact
 You can reach me at [andreas@abmichelsen.com][mail].
